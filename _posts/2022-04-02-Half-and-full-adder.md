@@ -1,6 +1,6 @@
 ---
 title: "[Logic Design] 2-1 Half-Adder & Full-Adder"
-excerpt: "Logic Design - Intro to Circuit - 2-1 Half-Adder & Full-Adder"
+excerpt: "Logic Design - Intro to Circuit - 2.1 Half-Adder & Full-Adder"
 
 categories:
   - Logic Design
